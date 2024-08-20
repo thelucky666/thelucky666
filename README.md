@@ -1,4 +1,4 @@
-## I hope to have fun on this site... 👋
+## I hope to have fun on this site...
 
 <!--
 **thelucky666/thelucky666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
